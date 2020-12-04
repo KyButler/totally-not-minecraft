@@ -1,4 +1,11 @@
 # totally-not-minecraft
+ - The YouTube video showing off the demonstration is here: https://youtu.be/32_EMg2q3nU.
+
+
+
+
+<br/><br/>
+
 
 ## Team Members
 
@@ -23,6 +30,6 @@ All of the classes we have created are within the Assets/Scripts folder.
 
 The PDF submission is the 'Project 6.pdf'.
 
-The YouTube video showing off the demonstration is https://youtu.be/32_EMg2q3nU.
+
 
 Thanks for the year!
