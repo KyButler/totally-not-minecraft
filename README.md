@@ -20,3 +20,5 @@ You do not need to build anything, you do not need to download Unity. The game c
 All of the classes we have created are within the Assets/Scripts folder.
 
 . . . However, if you want to build, simply create a project in Unity 2018.4.20f1, import all the assets, and change the build settings to include Scene 0 and 1 as "Main Menu" and "Game". This is what we did, worked fine, but do let us know if there's any issues!
+
+The PDF submission is the 'Project 6.pdf'.
